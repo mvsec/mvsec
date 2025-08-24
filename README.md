@@ -46,7 +46,7 @@
 
 ## 🎮 Discord  
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/713117536220348477?theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Həmişə+terminaldayam..."/>
+  <img src="https://lanyard.cnrad.dev/api/713117536220348477theme=dark&bg=000000&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Həmişə+terminaldayam..."/>
 </p>  
 
 ---
