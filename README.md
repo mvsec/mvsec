@@ -32,7 +32,8 @@
 
 ## 🎮 Discord
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/713117536220348477?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Həmişə+terminaldayam..." />
+ [![Discord](https://img.shields.io/badge/Discord-%40Ekber-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/713117536220348477)
+ />
 </p>
 
 ---
