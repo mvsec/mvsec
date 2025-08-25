@@ -1,8 +1,10 @@
+<div align="center">
+
 # 💻 Salam! Mən Əkbər (MVSEC)  
 
 ## 👨‍💻 Haqqımda  
 🔐 Kibertəhlükəsizlik (Cyber Security RHCSA+)  
-⚡ Açıq Mənbə (Open Source) Enthius  
+⚡ Açıq Mənbə (Open Source Enthusiast)  
 🕵️‍♂️ Şəbəkə, Linux və Etik Hacking  
 
 ---
@@ -22,20 +24,16 @@
 
 ---
 
-## 📊 GitHub Statistikalarım  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mvsec&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsec&layout=compact&theme=radical" height="180" />
-</p>  
+## 📊 GitHub Statistikalarım
+<img src="https://github-readme-stats.vercel.app/api?username=mvsec&show_icons=true&theme=radical" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvsec&layout=compact&theme=radical" height="180" />
 
 ---
 
 ## 🎮 Discord
-<p align="center">
-  <a href="https://discord.com/users/713117536220348477">
-    <img src="https://img.shields.io/badge/Discord-%40mvsec-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-</p>
+<a href="https://discord.com/users/713117536220348477">
+  <img src="https://img.shields.io/badge/Discord-%40mvsec-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+</a>
 
 ---
 
@@ -49,3 +47,5 @@
 ## 🕶️ Fun Fact  
 ⚡ Çox vaxt Linux terminalında işləyirəm  
 📚 Kibertəhlükəsizlik üzrə öyrəndiklərimi paylaşıram  
+
+</div>
