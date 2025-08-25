@@ -33,7 +33,7 @@
 ## 🎮 Discord
 <p align="center">
   <a href="https://discord.com/users/713117536220348477">
-    <img src="https://img.shields.io/badge/Discord-%40Ekber-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-%40mvsec-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </p>
 
