@@ -32,8 +32,8 @@
 
 ## 🎮 Discord
 <p align="center">
- [![Discord](https://img.shields.io/badge/Discord-%40Ekber-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/713117536220348477)
- />
+[![Discord](https://img.shields.io/badge/Discord-%40Ekber-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/713117536220348477)
+
 </p>
 
 ---
