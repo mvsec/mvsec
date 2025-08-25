@@ -45,7 +45,7 @@
 ---
 
 ## 🕶️ Fun Fact  
-⚡ Çox vaxt Linux terminalında işləyirəm  
-📚 Kibertəhlükəsizlik üzrə öyrəndiklərimi paylaşıram  
+***⚡ Çox vaxt Linux terminalında işləyirəm***  
+***📚 Kibertəhlükəsizlik üzrə öyrəndiklərimi paylaşıram***
 
 </div>
