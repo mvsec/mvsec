@@ -32,8 +32,9 @@
 
 ## 🎮 Discord
 <p align="center">
-[![Discord](https://img.shields.io/badge/Discord-%40Ekber-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/713117536220348477)
-
+  <a href="https://discord.com/users/713117536220348477">
+    <img src="https://img.shields.io/badge/Discord-%40Ekber-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
 </p>
 
 ---
